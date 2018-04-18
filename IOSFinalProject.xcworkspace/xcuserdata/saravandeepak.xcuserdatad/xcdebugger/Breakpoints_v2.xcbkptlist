@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSFinalProject/LoginViewController.swift"
+            timestampString = "545452562.627377"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSFinalProject/AppDelegate.swift"
+            timestampString = "545671412.650934"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "sign(_:didSignInFor:withError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSFinalProject/CourseDetailTableViewCell.swift"
+            timestampString = "545671412.6511281"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseDetailTableViewCell.__deallocating_deinit"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseDetailTableViewCell.swift"
+                  timestampString = "545452323.684607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseDetailTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; IOSFinalProject.CourseDetailTableViewCell"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseDetailTableViewCell.swift"
+                  timestampString = "545452323.6940939"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseDetailTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; IOSFinalProject.CourseDetailTableViewCell"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseDetailTableViewCell.swift"
+                  timestampString = "545452323.6975009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseDetailTableViewCell.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;IOSFinalProject.CourseDetailTableViewCell&gt;"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseDetailTableViewCell.swift"
+                  timestampString = "545452323.700442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseDetailTableViewCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;IOSFinalProject.CourseDetailTableViewCell&gt;"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseDetailTableViewCell.swift"
+                  timestampString = "545452323.705201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSFinalProject/CourseTitleTableViewCell.swift"
+            timestampString = "545671412.651235"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseTitleTableViewCell.__deallocating_deinit"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseTitleTableViewCell.swift"
+                  timestampString = "545464510.13901"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseTitleTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; IOSFinalProject.CourseTitleTableViewCell"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseTitleTableViewCell.swift"
+                  timestampString = "545464510.141403"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseTitleTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; IOSFinalProject.CourseTitleTableViewCell"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseTitleTableViewCell.swift"
+                  timestampString = "545464510.143538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseTitleTableViewCell.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;IOSFinalProject.CourseTitleTableViewCell&gt;"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseTitleTableViewCell.swift"
+                  timestampString = "545464510.14572"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFinalProject.CourseTitleTableViewCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;IOSFinalProject.CourseTitleTableViewCell&gt;"
+                  moduleName = "IOSFinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saravandeepak/NEU%20courses/IOS/IOSFinalProject/IOSFinalProject/CourseTitleTableViewCell.swift"
+                  timestampString = "545464510.147701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
